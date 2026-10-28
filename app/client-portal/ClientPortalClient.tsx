@@ -582,7 +582,7 @@ export function ClientPortalClient({
           {/* Footer matching live production DOM */}
           <footer className="border-t border-gray-200 bg-white py-4 px-6 text-center text-xs text-gray-500 flex justify-center font-manuale mt-auto">
             <div className="text-gray-500 flex items-center gap-1 text-center">
-              <span>Designed &amp; Developed by SAKIN BIN JABED</span>
+              <span>Designed &amp; Developed by Mst. Sanzida</span>
             </div>
           </footer>
         </div>

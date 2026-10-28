@@ -264,7 +264,7 @@ export function Footer() {
           </div>
 
           <div className="flex items-center gap-1.5 shrink-0">
-            <span className="text-gray-400">Designed &amp; Developed by SAKIN BIN JABED</span>
+            <span className="text-gray-400">Designed &amp; Developed by Mst. Sanzida</span>
           </div>
         </div>
       </div>
